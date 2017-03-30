@@ -1,0 +1,221 @@
+html, body{height:100%;}
+
+
+
+.navbar-brand img {
+	
+    
+    margin-right: 10px;
+}
+
+
+
+
+.bg-faded {
+	
+    
+    
+   
+    border-bottom-right-radius: 4px;
+    background-color: transparent;
+    
+    
+    
+}
+
+
+.navbar-brand {
+	font-size: 51px;
+}
+
+
+
+
+.container-fluid {
+    
+    
+    background-image: url(img/thought-catalog-214785.jpg);
+    background-size: cover;
+        padding-left: 0px;
+    padding-right: 0px;
+    height: 100%;
+    
+    
+    
+    
+    
+}
+
+
+
+  body {
+    
+    
+  
+    background-color: whitesmoke;
+        
+    
+    
+    
+    
+}
+
+
+
+.blockNav {
+    
+        width: 391px;
+    
+    padding-top: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+
+.navbar-light .navbar-nav .nav-link {
+    color: ghostwhite;
+     
+    
+}
+
+
+.navbar-light .navbar-brand, .navbar-light .navbar-toggler {
+    color: ghostwhite;
+    font-family: blanche de la fontaine;
+}
+
+
+
+
+.jumbotron {
+    
+    
+    background-color: transparent;
+    
+    
+    
+    
+}
+
+
+.jumbotron h1 {
+    
+    
+    color: aliceblue;
+    font-family: apercu pro;
+        text-shadow: 4px 4px 15px #292b2c;
+    
+}
+
+
+
+.jumbotron p {
+	 
+    
+    font-family: apercu pro;
+    
+    
+    color: aliceblue;
+    
+    
+    
+    
+    
+    
+}
+
+
+
+.btn {
+	    border-radius: 25px;
+        padding-left: 60px;
+    padding-right: 60px;
+}
+
+
+
+
+hr {
+    
+    border-top: 1px solid rgba(247, 247, 249, 0.52);
+    
+    
+}
+
+
+
+#user-list {
+	
+}
+
+
+
+.table {
+    
+    
+    display: none;
+        width: 1140px;
+   -webkit-box-shadow: -5px 14px 103px -16px rgba(0,0,0,0.55);
+-moz-box-shadow: -5px 14px 103px -16px rgba(0,0,0,0.55);
+box-shadow: -5px 14px 103px -16px rgba(0,0,0,0.55);
+   
+  
+
+    
+}
+
+
+.table-striped tbody tr:nth-of-type(odd) {
+        background-color: rgba(2, 116, 215, 0.29);
+}
+
+
+.tabUsers {
+    
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+    
+}
+
+
+
+.text-muted {
+	
+    
+        background-color: #7d7d7d;
+        height: 103px;
+    
+    
+}
+
+
+
+
+
+
+.text-muted .container {
+	
+    padding-top: 24px;
+    
+    
+}
+
+
+
+
+.text-muted p {
+	color: aliceblue;
+        padding-top: 17px;
+
+}
