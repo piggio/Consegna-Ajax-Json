@@ -1,3 +1,19 @@
+@font-face {
+    font-family: apercu pro;
+    src: url(font/apercu_regular_pro.otf);
+}
+
+
+@font-face {
+    font-family: blanche de la fontaine;
+    src: url(font/blanche.ttf);
+}
+
+
+
+
+
+
 html, body{height:100%;}
 
 
